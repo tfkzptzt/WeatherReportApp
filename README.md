@@ -1,6 +1,10 @@
 # Weather Report 天气预报
-Coding by App Inventor<p>
-<img src="Screenshot/1.jpg" alt="软件截图" title="软件截图" width=50%><img src="Screenshot/2.jpg" alt="深色模式" title="深色模式" width=50%><p>
-link: [https://code.appinventor.mit.edu](url)<p>
-API: [https://dev.qweather.com](url)<p>
-Weather Icons: [https://github.com/qwd/Icons](url)
+<p>使用App Inventor编写
+<br>Coding by App Inventor</p>
+<p><img src="Screenshot/1.jpg" alt="软件截图" title="软件截图" width=50%><img src="Screenshot/2.jpg" alt="深色模式" title="深色模式" width=50%></p>
+<p>这个软件最早是我高一参加比赛写的，最近翻出来再改改。</p>
+<p>特别感谢《App Inventor开发实战》的作者金从军</p>
+<p>App Inventor: https://code.appinventor.mit.edu
+<br>https://login.appinventor.mit.edu/login
+<br>API: https://dev.qweather.com
+<br>Weather Icons: https://github.com/qwd/Icons
